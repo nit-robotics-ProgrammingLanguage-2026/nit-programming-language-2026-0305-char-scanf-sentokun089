@@ -2,8 +2,8 @@
 
 int main(void) {
     /* 課題0305: ここに自分で必要なプログラムを書きなさい */
-    int i;
-    scanf("%d",&i);
-    printf("%x\n",i);
+    char char;
+    scanf("%c",&ch);
+    printf("%c\n",ch);
     return 0;
 }
